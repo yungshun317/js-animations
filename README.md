@@ -10,6 +10,7 @@ Just run `index.html`.
 
 ## Features
 
+- Text Animation Effect: `hue-rotate`.
 
 
 ## License
