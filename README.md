@@ -11,7 +11,7 @@ Just run `index.html`.
 ## Features
 
 - Text Animation Effect: `hue-rotate`.
-- Parallax Scrolling Effect: 
+- Parallax Scrolling Effect: `margin-top`, `top`, `left`.
 
 ## License
 [JavaScript Animations](https://github.com/yungshun317/js-animations) is released under the [MIT License](https://opensource.org/licenses/MIT) by [yungshun317](https://github.com/yungshun317).
