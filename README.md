@@ -12,6 +12,7 @@ Just run `index.html`.
 
 - Text Animation Effect: `hue-rotate`.
 - Parallax Scrolling Effect: `margin-top`, `top`, `left`.
+- Expandable Card Effect: `height`, `translate` & `rotate`.
 
 ## License
 [JavaScript Animations](https://github.com/yungshun317/js-animations) is released under the [MIT License](https://opensource.org/licenses/MIT) by [yungshun317](https://github.com/yungshun317).
