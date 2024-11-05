@@ -15,6 +15,7 @@ Just run `index.html`.
 - Expandable Card Effect: `height`, `translate` & `rotate`.
 - Colorful Text Animation Effect: `hue-rotate`.
 - Clip Path Animation Effect: `clip-path`.
+- Animations on Scroll: `opacity`, `blur`, `translateX`, `scale`, `rotate`.
 
 ## License
 [JavaScript Animations](https://github.com/yungshun317/js-animations) is released under the [MIT License](https://opensource.org/licenses/MIT) by [yungshun317](https://github.com/yungshun317).
