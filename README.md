@@ -16,6 +16,8 @@ Just run `index.html`.
 - Colorful Text Animation Effect: `hue-rotate`.
 - Clip Path Animation Effect: `clip-path`.
 - Animations on Scroll: `opacity`, `blur`, `translateX`, `scale`, `rotate`.
+- Moving Background Image on Scroll: `background-position`.
+- Animated Banner: `width` & `height`, `opacity`, `skewY` & `translateY`.
 
 ## License
 [JavaScript Animations](https://github.com/yungshun317/js-animations) is released under the [MIT License](https://opensource.org/licenses/MIT) by [yungshun317](https://github.com/yungshun317).
