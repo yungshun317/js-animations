@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.scene {
+    height: 100vh;
+
+    position: relative;
+    overflow: hidden;
+
+    background: linear-gradient(#a6d8ff, #fff, #fff);
+}
+
+.sun {
+    width: 100%;
+    height: 100%;
+
+    position: absolute;
+    top: 100px;
+    left: 55%;
+
+    background: #fff;
+    border-radius: 50%;
+    box-shadow: 0 0 50px #fff;
+    cursor: pointer;
+
+    transform: translateX(-50%);
+    transition: all 0.2s;
+}
+
+.scene.night {
+    background: #222833;
+}
+
+.scene.night .sun {
+    left: 45%;
+
+    box-shadow: 0 0 0 #fff;
+}
+
+.scene.night .sun::before {
+    width: 100%;
+    height: 100%;
+
+    position: absolute;
+    top: -20px;
+    left: 20px;
+
+    content: '';
+    background: #222833;
+    border-radius: 50%;
+}
+
+.background {
+    width: 100%;
+    height: 280px;
+
+    position: absolute;
+    bottom: 0;
+
+    background: url(background.png);
+
+    animation: aniateBackground 25s linear infinite;
+    background-size: 1500px;
+    background-repeat: repeat-x;
+}
+
+@keyframes animateBackground {
+    0% {
+        background-position-x: 0px;
+    }
+    100% {
+        background-position-x: -1500px;
+    }
+}
+
+.car-1 {
+    max-width: 200px;
+
+    position: absolute;
+    left: -200px;
+    bottom: 20px;
+    z-index: 1;
+
+    animation: carOne 18s linear infinite;
+}
+
+.car-2 {
+    max-width: 200px;
+
+    position: absolute;
+    right: -200px;
+    bottom: 50px;
+
+    animation: carTwo 12s linear infinite;
+}
+
+@keyframes carOne {
+    0% {
+        transform: translateX(0px);
+    }
+    90%, 100% {
+        transform: translateX(calc(100vw + 200px));
+    }
+}
+
+@keyframes carTwo {
+    0% {
+        transform: translateX(0px) rotateY(180deg);
+    }
+    90%, 100% {
+        transform: translateX(calc(-100vw - 200px)) rotateY(180deg);
+    }
+}
