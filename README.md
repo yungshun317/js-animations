@@ -18,6 +18,7 @@ Just run `index.html`.
 - Animations on Scroll: `opacity`, `blur`, `translateX`, `scale`, `rotate`.
 - Moving Background Image on Scroll: `background-position`.
 - Animated Banner: `width` & `height`, `opacity`, `skewY` & `translateY`.
+- Night Mode Animation: `background-position-x`, `translateX` & `rotateY`.
 
 ## License
 [JavaScript Animations](https://github.com/yungshun317/js-animations) is released under the [MIT License](https://opensource.org/licenses/MIT) by [yungshun317](https://github.com/yungshun317).
