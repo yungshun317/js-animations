@@ -22,7 +22,7 @@ Just run `index.html`.
 - Circular Navigation Menu: `top`, `translate`, `rotate`.
 - Tab Navigation Animation: `translateY`, `rotate`.
 - Skew on Scroll Effect: `skewY`.
-- Video Slider:
+- Video Slider: `opacity`, `width`.
 
 ## License
 [JavaScript Animations](https://github.com/yungshun317/js-animations) is released under the [MIT License](https://opensource.org/licenses/MIT) by [yungshun317](https://github.com/yungshun317).
