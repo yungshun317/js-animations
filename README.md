@@ -21,7 +21,7 @@ Just run `index.html`.
 - Night Mode Animation: `background-position-x`, `translateX` & `rotateY`.
 - Circular Navigation Menu: `top`, `translate`, `rotate`.
 - Tab Navigation Animation: `translateY`, `rotate`.
-- Skew on Scroll:
+- Skew on Scroll: `skewY`.
 
 ## License
 [JavaScript Animations](https://github.com/yungshun317/js-animations) is released under the [MIT License](https://opensource.org/licenses/MIT) by [yungshun317](https://github.com/yungshun317).
