@@ -15,11 +15,13 @@ Just run `index.html`.
 - Expandable Card Effect: `height`, `translate` & `rotate`.
 - Colorful Text Animation Effect: `hue-rotate`.
 - Clip Path Animation Effect: `clip-path`.
-- Animations on Scroll: `opacity`, `blur`, `translateX`, `scale`, `rotate`.
+- Animate on Scroll: `opacity`, `blur`, `translateX`, `scale`, `rotate`.
 - Moving Background Image on Scroll: `background-position`.
 - Animated Banner: `width` & `height`, `opacity`, `skewY` & `translateY`.
 - Night Mode Animation: `background-position-x`, `translateX` & `rotateY`.
 - Circular Navigation Menu: `top`, `translate`, `rotate`.
+- Tab Navigation Animation: `translateY`, `rotate`.
+- Skew on Scroll:
 
 ## License
 [JavaScript Animations](https://github.com/yungshun317/js-animations) is released under the [MIT License](https://opensource.org/licenses/MIT) by [yungshun317](https://github.com/yungshun317).
