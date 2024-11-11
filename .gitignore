@@ -28,5 +28,9 @@ yarn-error.log*
 
 # img
 img/
+*.jpg
 *.png
 *.gif
+
+# video
+*.mp4
