@@ -24,6 +24,7 @@ Just run `index.html`.
 - Skew on Scroll Effect: `skewY`.
 - Video Slider: `opacity`, `width`.
 - Glitch Effect: `top` & `left`, `height` & `width`, `background-position`.
+- Split Screen on Scroll Effect: `left`, `clip-path`.
 
 
 ## License
