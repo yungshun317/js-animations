@@ -23,6 +23,8 @@ Just run `index.html`.
 - Tab Navigation Animation: `translateY`, `rotate`.
 - Skew on Scroll Effect: `skewY`.
 - Video Slider: `opacity`, `width`.
+- Glitch Effect: `top` & `left`, `height` & `width`, `background-position`.
+
 
 ## License
 [JavaScript Animations](https://github.com/yungshun317/js-animations) is released under the [MIT License](https://opensource.org/licenses/MIT) by [yungshun317](https://github.com/yungshun317).
