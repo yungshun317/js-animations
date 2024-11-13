@@ -25,7 +25,7 @@ Just run `index.html`.
 - Video Slider: `opacity`, `width`.
 - Glitch Effect: `top` & `left`, `height` & `width`, `background-position`.
 - Split Screen on Scroll Effect: `left`, `clip-path`.
-
+- Toggle Action Menu: `width` & `height`, `translateX`.
 
 ## License
 [JavaScript Animations](https://github.com/yungshun317/js-animations) is released under the [MIT License](https://opensource.org/licenses/MIT) by [yungshun317](https://github.com/yungshun317).
